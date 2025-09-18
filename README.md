@@ -1,5 +1,5 @@
 <!-- Animated Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Adharsh+Martin+P;CS+Student+%7C+Python+%26+ML+Enthusiast;Exploring+AI%2C+NLP%2C+and+Deep+Learning;Open+to+Collaboration+%26+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Adharsh+Martin;CS+Student+%7C+Python+%26+ML+Enthusiast;Exploring+AI%2C+NLP%2C+and+Deep+Learning;Open+to+Collaboration+%26+Projects)](https://git.io/typing-svg)
 
 # 👋 About Me  
 💻 **Computer Science Student | Python & Machine Learning Enthusiast**  
