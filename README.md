@@ -2,11 +2,8 @@
   <img src="./assets/header2.gif" alt="Cyberpunk city rain pixel art header" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm YourName 👋</h1>
+<h1 align="center">👋 I'm Adharsh Martin</h1>
 
-<p align="center">
-  <em>Building things in the rain ☔ · pixels · code · neon lights</em>
-</p>
 
 ---
 
@@ -39,23 +36,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA1884?logo=jupyter&logoColor=white)
-
----
-### 🏆 LeetCode Stats
-
-<p align="center">
-  <!-- Overall stats -->
-  <img src="https://leetcode-stats.vercel.app/api?username=Adharsh_Martin&theme=dark&show_icons=true" alt="LeetCode Stats" />
-
-  <!-- Top languages solved -->
-  <img src="https://leetcode-stats.vercel.app/api/top/languages/?username=Adharsh_Martin&layout=compact&theme=dark" alt="Top LeetCode Languages" />
-</p>
-
----
-
-### 🌐 Find Me
-- 🐦 Twitter: `@yourhandle`
-- 🌍 Website: `your-site.dev`
 
 ---
 
