@@ -38,16 +38,12 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA1884?logo=jupyter&logoColor=white)
 
 ---
-### 📊 GitHub Summary
+### 🏆 GitHub Stats
 
 <p align="center">
-  <!-- Total contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AdharshMartin&show_icons=true&theme=radical&count_private=true&hide=issues,prs,stars" alt="GitHub Contributions" />
-
-  <!-- Circular language chart -->
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdharshMartin&layout=donut&theme=radical&hide=html,css" alt="Top Languages Donut Chart" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdharshMartin&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
+
 
 ---
 <p align="center">
