@@ -41,6 +41,17 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA1884?logo=jupyter&logoColor=white)
 
 ---
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <!-- Overall stats -->
+  <img src="https://leetcode-stats.vercel.app/api?username=Adharsh_Martin&theme=dark&show_icons=true" alt="LeetCode Stats" />
+
+  <!-- Top languages solved -->
+  <img src="https://leetcode-stats.vercel.app/api/top/languages/?username=Adharsh_Martin&layout=compact&theme=dark" alt="Top LeetCode Languages" />
+</p>
+
+---
 
 ### 🌐 Find Me
 - 🐦 Twitter: `@yourhandle`
