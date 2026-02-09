@@ -6,11 +6,13 @@
 
 
 ---
+## 👨‍💻 About Me
 
-### 🧠 About Me
-- 💻 Developer who likes clean code and dirty cyberpunk aesthetics  
-- 🎮 Pixel art enjoyer / retro-futurism fan  
-- 🌃 Late-night coder energy  
+Computer Science student interested in Machine Learning and software development.
+
+I work on projects involving deep learning, NLP, and full-stack applications, and I like turning ideas into working solutions.
+
+Always learning and open to new challenges and opportunities.
 
 ---
 
