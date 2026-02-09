@@ -38,7 +38,13 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA1884?logo=jupyter&logoColor=white)
 
 ---
+## GitHub Stats
 
+![AdharshMartin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdharshMartin&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdharshMartin&layout=compact&theme=dark)
+
+---
 <p align="center">
   <em>"The city never sleeps — neither do side projects."</em>
 </p>
