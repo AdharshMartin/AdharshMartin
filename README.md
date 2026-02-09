@@ -48,6 +48,3 @@ Always learning and open to new challenges and opportunities.
 
 
 ---
-<p align="center">
-  <em>"The city never sleeps — neither do side projects."</em>
-</p>
