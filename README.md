@@ -39,10 +39,9 @@
 
 ---
 ## GitHub Stats
-
 ![AdharshMartin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdharshMartin&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdharshMartin&layout=compact&theme=dark)
+
 
 ---
 <p align="center">
