@@ -40,11 +40,10 @@ Always learning and open to new challenges and opportunities.
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA1884?logo=jupyter&logoColor=white)
 
 ---
-### 🏆 GitHub Stats
+### 📊 Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdharshMartin&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
+![LeetCode](https://img.shields.io/badge/dynamic/json?color=orange&label=LeetCode%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/YOUR_USERNAME)
 
+![GitHub commits](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide=issues,stars,prs&include_all_commits=true&count_private=true)
 
 ---
